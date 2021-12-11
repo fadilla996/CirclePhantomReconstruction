@@ -1,0 +1,3 @@
+Folder CirclePhantom berisi 2 file program MATLAB yang terdiri dari :
+1. CircleFreq128p.m berisi sourcecode rekonstruksi circle phantom 128 x 128 pixel dalam domain frekuensi dan perhitungan nilai PSNR-nya
+2. CircleSpas128p.m berisi sourcecode rekonstruksi circle phantom 128 x 128 pixel dalam domain spasial dan perhitungan nilai PSNR-nya
